@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+    <link rel="stylesheet" href="style.css">
+<style>
+.container {
+    border-style: solid;
+    border-radius: 15px;
+    border: width 10px; ;
+    height: 500px;
+    width: 350px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+
+.image{
+
+    border: solid;
+    border-style: solid ;
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+}
+</style>
+</head>
+<body>
+    <div class="container">
+        <img src="/blang.html/blang.jpg" class="image">
+        
+        <h1>Name: James Bryll Lore</h1>
+        <h1>Birthdate: July 31,2004 </h1>
+        <h1>Age: 20</h1>
+        <h1>Address: Wagon, Macambol, City Of Mati</h1>
+        <h1>Contact no. 09265054289</h1>
+        
+    </div>
+    
+</body>
+</html>
